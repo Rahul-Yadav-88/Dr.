@@ -12,7 +12,7 @@ import HeroCards from '../../components/home/heroCards'
 
 const Home = () => {
   return (
-    <div>
+    <div className='z-40'>
       <OrthopaedicSection/>
       <HeroCards/>
       <Section2/>
