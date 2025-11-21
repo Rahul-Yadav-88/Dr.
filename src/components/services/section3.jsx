@@ -4,52 +4,53 @@ import React from "react";
 
 export default function SpecialtySection() {
   const specialties = [
-    {
-      title: "Dentistry",
-      desc: "Get consultation form our Dentistry team",
-      img:"/img1.png"
-    },
-    {
-      title: "General Diagnosis",
-      desc: "Get consultation form our General Diagnosis team",
-     img:"/img2.png"
-    },
-    {
-      title: "Neuro Surgery",
-      desc: "Get consultation form our Neuro Surgery team",
-      img:"/img3.png"
-    },
-    {
-      title: "Cardiology",
-      desc: "Get consultation form our Cardiology team",
-      img:"/img4.png"
-    },
-    {
-      title: "Pharmacy",
-      desc: "Get consultation form our Pharmacy team",
-     img:"/img5.png"
-    },
-    {
-      title: "Trained Staff",
-      desc: "Get consultation form our Trained staff team",
-      img:"/img6.png"
-    },
-    {
-      title: "DNA Mapping",
-      desc: "Get consultation form our DNA Mapping team",
-      img:"/img7.png"
-    },
-    {
-      title: "Ophthalmology",
-      desc: "Get consultation form our Ophthalmology team",
-      img:"/img1.png"
-    },
-    {
-      title: "Medical Aid",
-      desc: "Get consultation form our Emergency Medical Aid Team",
-    img:"/img8.png"
-    },
-  ];
+  {
+    title: "General Pediatrics",
+    desc: "Comprehensive care for infants, children, and adolescents.",
+    img: "/img1.png",
+  },
+  {
+    title: "Neonatology",
+    desc: "Specialized care for newborns, including premature and high-risk babies.",
+    img: "/img2.png",
+  },
+  {
+    title: "Pediatric Intensive Care",
+    desc: "Advanced critical care for severe and life-threatening pediatric conditions.",
+    img: "/img3.png",
+  },
+  {
+    title: "Newborn Care",
+    desc: "Routine newborn checkups, growth monitoring, and vaccinations.",
+    img: "/img4.png",
+  },
+  {
+    title: "Pediatric Emergency Care",
+    desc: "Immediate care for acute illnesses, injuries, and medical emergencies.",
+    img: "/img5.png",
+  },
+  {
+    title: "Child Growth & Development",
+    desc: "Monitoring height, weight, milestones, and early childhood development.",
+    img: "/img6.png",
+  },
+  {
+    title: "Vaccination & Immunization",
+    desc: "All essential childhood vaccines with proper schedule guidance.",
+    img: "/img7.png",
+  },
+  {
+    title: "Nutrition & Diet Counseling",
+    desc: "Nutritional guidance for healthy growth, picky eating, and deficiencies.",
+    img: "/img1.png",
+  },
+  {
+    title: "Chronic Disease Management",
+    desc: "Long-term care for asthma, allergies, anemia, and other chronic illnesses.",
+    img: "/img8.png",
+  },
+];
+
 
   return (
     <section className="w-full bg-[#f3f8ff] py-20 px-6">

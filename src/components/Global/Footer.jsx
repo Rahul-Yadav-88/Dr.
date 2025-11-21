@@ -32,10 +32,7 @@ export default function Footer() {
   <div>
     <h3 className="text-2xl font-semibold mb-3 text-[#5B8291]">About us</h3>
     <p className="text-lg opacity-80 leading-relaxed text-[#5B8291]">
-      Dr. Vivekananda is one of the best orthopaedic surgeons in Hyderabad
-      rendering expert treatment in replacement surgeries, bone trauma
-      diagnosis and holds in-depth knowledge in pathologies around knee & hip
-      joint, treatment and concerned surgeries.
+      Dr. Gaurav Jadon is an experienced Consultant Pediatrician with 28 years of clinical practice across India, Kuwait, and the UAE. He specializes in General Pediatrics, Neonatology, and Pediatric Intensive Care, providing safe, compassionate, and evidence-based care for newborns, infants, and children.
     </p>
   </div>
 
