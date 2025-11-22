@@ -1,4 +1,5 @@
 import React from "react";
+import Link from 'next/link'
 
 const Section5 = () => {
   return (
@@ -11,9 +12,11 @@ const Section5 = () => {
         </p>
 
         
-        <button className="bg-[#2E424D] text-[#98DAD9] text-xs px-6 py-3  flex items-center gap-2 hover:bg-slate-800 transition">
-          OR SEND US MESSAGE →
-        </button>
+        <Link href="/contact">
+  <button className="mt-8 bg-[#29495E] text-white px-8 py-3 rounded-md text-sm tracking-widest hover:bg-[#1f3747] transition">
+    READ MORE
+  </button>
+</Link>
 
       </div>
     </div>

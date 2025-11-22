@@ -1,4 +1,5 @@
 import React from "react";
+import Link from 'next/link'
 
 
 const Section6 = () => {
@@ -88,9 +89,11 @@ const cardsData = [
 
       {/* View more button */}
       <div className="flex justify-center mt-10">
-        <button className="bg-[#2E424D] text-[#5B8291] px-8 py-3 rounded-md hover:bg-[#1b2d3d] transition">
-          VIEW MORE
-        </button>
+        <Link href="/services">
+  <button className="mt-8 bg-[#29495E] text-white px-8 py-3 rounded-md text-sm tracking-widest hover:bg-[#1f3747] transition">
+    READ MORE
+  </button>
+</Link>
       </div>
     </div>
   );

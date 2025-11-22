@@ -1,4 +1,5 @@
 import Image from "next/image";
+   import Link from "next/link";
 
 export default function HeroSection() {
   return (
@@ -24,9 +25,14 @@ export default function HeroSection() {
             Care — committed to safe and evidence based child healthcare.
           </p>
 
-          <button className="bg-[#98DAD9] text-black px-6 py-2 rounded-md text-sm font-medium hover:bg-[#7ee7ff] transition">
-            Contact
-          </button>
+       
+
+<Link href="/contact">
+  <button className="bg-[#98DAD9] text-black px-6 py-2 rounded-md text-sm font-medium hover:bg-[#7ee7ff] transition">
+    Contact
+  </button>
+</Link>
+
         </div>
 
         {/* right */}

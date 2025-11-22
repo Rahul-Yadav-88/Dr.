@@ -8,7 +8,7 @@ const cards = [
       'Al Nahda 2, Dubai, UAE',
       'Providing comprehensive pediatric, neonatal & emergency care in a modern clinical environment.'
     ],
-    action: { label: 'CONTACT US', href: '#' }
+    action: { label: 'CONTACT US', href: '/contact' }
   },
   {
     title: 'Schedule an Appointment',

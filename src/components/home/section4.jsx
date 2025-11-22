@@ -1,4 +1,5 @@
 import React from "react";
+import Link from 'next/link'
 
 export default function Section4() {
   return (
@@ -26,9 +27,13 @@ export default function Section4() {
             compassionate, evidence-based care.
           </p>
 
-          <button className="mt-8 bg-[#29495E] text-white px-8 py-3 rounded-md text-sm tracking-widest hover:bg-[#1f3747] transition">
-            READ MORE
-          </button>
+        <Link href="/about">
+  <button className="mt-8 bg-[#29495E] text-white px-8 py-3 rounded-md text-sm tracking-widest hover:bg-[#1f3747] transition">
+    READ MORE
+  </button>
+</Link>
+
+
         </div>
 
       </div>

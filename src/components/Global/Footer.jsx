@@ -64,10 +64,10 @@ export default function Footer() {
   <div className="text-[#5B8291]">
     <h3 className="text-2xl font-semibold mb-3">Additional Link</h3>
     <ul className="space-y-2 text-lg opacity-90">
-      <li><Link href="#" className="hover:text-white">&gt; Core Clinic</Link></li>
-      <li><Link href="#" className="hover:text-white">&gt; Service</Link></li>
-      <li><Link href="#" className="hover:text-white">&gt; About</Link></li>
-      <li><Link href="#" className="hover:text-white">&gt; Contact</Link></li>
+      {/* <li><Link href="#" className="hover:text-white">&gt; Core Clinic</Link></li> */}
+      <li><Link href="/services" className="hover:text-white">&gt; Service</Link></li>
+      <li><Link href="/about" className="hover:text-white">&gt; About</Link></li>
+      <li><Link href="/contact" className="hover:text-white">&gt; Contact</Link></li>
     </ul>
   </div>
 
@@ -113,11 +113,13 @@ export default function Footer() {
     </div>
 
     {/* Submit Button */}
-    <button
-      className="mx-auto  bg-[#2E424D]  px-10 py-3 rounded-md shadow-lg  transition-all flex items-center justify-center gap-2 text-[#5B8291]"
-    >
-      Submit <span className="text-lg"><ArrowRight size={20}/></span>
-    </button>
+    <Link href="/contact">
+  <button
+    className="mx-auto bg-[#2E424D] px-10 py-3 rounded-md shadow-lg transition-all flex items-center justify-center gap-2 text-[#5B8291]"
+  >
+    Submit <span className="text-lg"><ArrowRight size={20} /></span>
+  </button>
+</Link>
   </form>
 </div>
 
