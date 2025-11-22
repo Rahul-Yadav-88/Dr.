@@ -21,7 +21,7 @@ const cardsData = [
     title: "Pediatric Intensive Care",
     image: "/card3.png",
     description:
-      "Advanced management of critically ill children, including respiratory failure, sepsis, trauma, and emergencies. Skilled in ventilation, PICU protocols, and multidisciplinary critical care.",
+      "Advanced management of critically ill children, including respiratory failure, sepsis, trauma, and emergencies. Skilled in ventilation, Prdiatric Emergency Care protocols, and multidisciplinary critical care.",
   },
 ];
 

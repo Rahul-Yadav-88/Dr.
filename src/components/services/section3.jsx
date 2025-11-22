@@ -14,13 +14,14 @@ export default function SpecialtySection() {
   //   desc: "Specialized care for newborns, including premature and high-risk babies.",
   //   img: "/img2.png",
   // },
+
   {
     title: "Pediatric Intensive Care",
     desc: "Advanced critical care for severe and life-threatening pediatric conditions.",
     img: "/img3.png",
   },
   {
-    title: "Newborn Care",
+    title: "Care of childern from 1 month of age to 18 years",
     desc: "Routine newborn checkups, growth monitoring, and vaccinations.",
     img: "/img4.png",
   },

@@ -27,7 +27,7 @@ const Section2 = () => {
             evidence-based care for newborns, infants, and children.
             <br /><br />
             Over the years, he has managed a wide range of pediatric and neonatal conditions,
-            including premature newborn care, pediatric emergencies, and complex critical cases.
+            including premature Care of childern from 1 month of age to 18 years, pediatric emergencies, and complex critical cases.
             His calm approach, strong clinical judgment, and commitment to medical excellence have
             earned the trust of families and colleagues alike.
             <br /><br />
