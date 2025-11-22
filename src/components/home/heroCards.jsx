@@ -2,24 +2,30 @@ import React from 'react';
 
 const cards = [
   {
-    title: 'Clinic Location',
-    lines: [
-      'NMC Specialty Hospital, Dubai',
-      'Al Nahda 2, Dubai, UAE',
-      'Providing comprehensive pediatric, neonatal & emergency care in a modern clinical environment.'
-    ],
-    action: { label: 'CONTACT US', href: '/contact' }
-  },
-  {
-    title: 'Schedule an Appointment',
-    lines: [
-      'NMC Specialty Hospital, Dubai',
-      'Mon - Sat',
-      '5.30PM - 9.00PM',
-      'For consultations, vaccinations, newborn care & pediatric follow-ups.'
-    ],
-    action: null
-  },
+  title: 'Clinic Location',
+  lines: [
+    'Mediclinic Welcare Hospital',
+    'Garhoud, Dubai',
+    'Providing comprehensive pediatric & emergency care in a modern clinical environment.'
+  ],
+  action: { label: 'CONTACT US', href: '/contact' }
+},
+
+ {
+  title: 'Schedule an Appointment',
+  lines: [
+    'My Schedule of Working in Mediclinic Welcare Hospital',
+    'Friday & Saturday – Weekly Off',
+    'Sunday – 10:00 AM to 7:00 PM',
+    'Monday – 12:00 PM to 9:00 PM',
+    'Tuesday – 9:00 AM to 6:00 PM',
+    'Wednesday – 9:00 AM to 6:00 PM',
+    'Thursday – 9:00 AM to 6:00 PM',
+    'Please book your appointments accordingly.'
+  ],
+  action: null
+},
+
   {
     title: 'Contact Details',
     lines: [

@@ -32,7 +32,7 @@ export default function Footer() {
   <div>
     <h3 className="text-2xl font-semibold mb-3 text-[#5B8291]">About us</h3>
     <p className="text-lg opacity-80 leading-relaxed text-[#5B8291]">
-      Dr. Gaurav Jadon is an experienced Consultant Pediatrician with 28 years of clinical practice across India, Kuwait, and the UAE. He specializes in General Pediatrics, Neonatology, and Pediatric Intensive Care, providing safe, compassionate, and evidence-based care for newborns, infants, and children.
+      Dr. Gaurav Jadon is an experienced Consultant Pediatrician with 28 years of clinical practice across India, Kuwait, and the UAE. He specializes in General Pediatrics and Pediatric Intensive Care, providing safe, compassionate, and evidence-based care for newborns, infants, and children.
     </p>
   </div>
 

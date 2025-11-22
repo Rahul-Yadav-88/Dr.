@@ -23,7 +23,7 @@ export default function Section4() {
 
           <p className="text-[#5F869A] text-[22px] font-bold leading-relaxed md:pr-10">
             Leading Consultant Pediatrician with 28 years of experience in General
-            Pediatrics, Neonatology, and Pediatric Intensive Care. Trusted for
+            Pediatrics and Pediatric Intensive Care. Trusted for
             compassionate, evidence-based care.
           </p>
 

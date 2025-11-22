@@ -9,11 +9,11 @@ export default function SpecialtySection() {
     desc: "Comprehensive care for infants, children, and adolescents.",
     img: "/img1.png",
   },
-  {
-    title: "Neonatology",
-    desc: "Specialized care for newborns, including premature and high-risk babies.",
-    img: "/img2.png",
-  },
+  // {
+  //   title: "Neonatology",
+  //   desc: "Specialized care for newborns, including premature and high-risk babies.",
+  //   img: "/img2.png",
+  // },
   {
     title: "Pediatric Intensive Care",
     desc: "Advanced critical care for severe and life-threatening pediatric conditions.",

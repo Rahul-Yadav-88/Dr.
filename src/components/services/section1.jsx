@@ -9,7 +9,7 @@ export default function Section1() {
       img: "/1.avif",
     },
     {
-      title: "Neonatology & Newborn Care",
+      title: "Newborn Care",
       desc: "Expert care for premature babies, high-risk newborns, and infants requiring specialized monitoring. Ensuring safe, stable, and family-centered neonatal support from birth onward.",
       img: "/2.jpg",
     },

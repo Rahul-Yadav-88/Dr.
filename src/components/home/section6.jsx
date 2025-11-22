@@ -42,7 +42,7 @@ const cardsData = [
         </p>
 
         <p>
-          With strong expertise in General Pediatrics, Neonatology, and
+          With strong expertise in General Pediatrics and
           Pediatric Intensive Care, he has managed a wide range of complex
           newborn and childhood conditions. Dr. Jadon has cared for premature
           babies, critically ill children, and acute emergencies while guiding

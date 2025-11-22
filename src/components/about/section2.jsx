@@ -23,8 +23,7 @@ const Section2 = () => {
         <div className="w-full md:w-1/2">
           <p className="text-[#5B8291] text-[18px] leading-relaxed opacity-90">
             Dr. Gaurav Jadon is an experienced Consultant Pediatrician with 28 years of clinical
-            practice across India, Kuwait, and the UAE. He specializes in General Pediatrics,
-            Neonatology, and Pediatric Intensive Care, providing safe, compassionate, and
+            practice across India, Kuwait, and the UAE. He specializes in General Pediatrics and Pediatric Intensive Care, providing safe, compassionate, and
             evidence-based care for newborns, infants, and children.
             <br /><br />
             Over the years, he has managed a wide range of pediatric and neonatal conditions,
