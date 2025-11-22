@@ -21,7 +21,7 @@ export default function Footer() {
 
         <div className="bg-[#30515E] p-8  text-center text-[#98DAD9]">
           <h4 className="font-semibold">To book an appointment, call us on</h4>
-          <p className="text-sm font-medium mt-1">+91 9701757017</p>
+          <p className="text-sm font-medium mt-1">8001999</p>
         </div>
       </div>
 

@@ -8,7 +8,7 @@ const Section5 = () => {
         
      
         <p className="text-sm text-[#5B8291]">
-          In case of <span className="font-semibold">EMERGENCY</span>, call +91 9701757017
+          In case of <span className="font-semibold">EMERGENCY</span>, call 8001999
         </p>
 
         

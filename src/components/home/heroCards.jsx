@@ -24,7 +24,7 @@ const cards = [
     title: 'Contact Details',
     lines: [
       'For appointments and urgent queries:',
-      '+971 50 587 0574'
+      '8001999',
     ],
     action: null
   }

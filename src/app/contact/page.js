@@ -48,23 +48,23 @@ export default function ContactSection() {
             <span><img src="/contact1.png" alt="" className='w-6'/></span>
             <div>
               <p className="font-semibold">Phone</p>
-              <p>03 5432 1234</p>
+              <p>8001999</p>
             </div>
           </div>
 
-          <div className="flex items-center gap-2">
+          {/* <div className="flex items-center gap-2">
               <span><img src="/contact2.png" alt="" className='w-6'/></span>
             <div>
               <p className="font-semibold">Fax</p>
               <p>03 5432 1234</p>
             </div>
-          </div>
+          </div> */}
 
           <div className="flex items-center gap-2">
              <span><img src="/contact3.png" alt="" className='w-6'/></span>
             <div>
               <p className="font-semibold">Email</p>
-              <p>info@marcc.com.au</p>
+              <p>Gaurav.jadon@mediclinic.ae</p>
             </div>
           </div>
         </div>
