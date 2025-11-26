@@ -9,8 +9,8 @@ export default function Section1() {
       img: "/1.avif",
     },
     {
-      title: "Care of childern from 1 month of age to 18 years",
-      desc: "Expert care for premature babies, high-risk Care of childern from 1 month of age to 18 yearss, and infants requiring specialized monitoring. Ensuring safe, stable, and family-centered neonatal support from birth onward.",
+      title: "Expert Care of children from 1 month of age to 18 years",
+      desc: "Expert care for children from 1 month of age to 18 years, and infants requiring specialized monitoring. ",
       img: "/2.jpg",
     },
   ];

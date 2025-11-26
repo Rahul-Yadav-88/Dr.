@@ -23,10 +23,9 @@ const Section8 = () => {
           <p className="text-sm sm:text-md md:text-2xl mb-8">
             Dr. Gaurav Jadon is a Consultant Pediatrician with over 28 years of
             post-specialization experience across India, Kuwait, and the UAE. He
-            specializes in General Pediatrics and Pediatric
-            Intensive Care, combining clinical expertise with academic leadership.
+            specializes in General Pediatrics and combining clinical expertise with academic leadership.
             Certified by the European Board of Pediatrics, Dr. Jadon serves at
-            NMC Specialty Hospital, Dubai. He actively contributes to teaching,
+            mediclinic welcare hospital dubai. He actively contributes to teaching,
             clinical audits, and international research forums. Passionate about
             pediatric education and evidence-based practice, he continues to
             advance child health standards in the GCC region through compassionate
