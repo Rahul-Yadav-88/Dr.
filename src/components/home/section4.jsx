@@ -6,7 +6,7 @@ export default function Section4() {
     <section className=" bg-white  mt-20">
       <div className="responsivewidth  flex flex-col md:flex-row items-start gap-10">
 
-        {/* LEFT IMAGE */}
+       
         <div className="w-full md:w-[30%] flex justify-center md:justify-start">
           <img
             src="/doc.png"
@@ -15,7 +15,7 @@ export default function Section4() {
           />
         </div>
 
-        {/* RIGHT CONTENT */}
+       
         <div className="w-full md:w-[70%]">
           <h3 className="text-[#5F869A] text-xl font-semibold mb-10 border-b border-[#5F869A] w-fit pb-1">
             Areas of Expertise

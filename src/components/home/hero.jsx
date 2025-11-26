@@ -10,18 +10,18 @@ const HeroSection = () => {
   return (
     <div className="relative w-full h-[70vh] md:h-[90vh] overflow-hidden">
 
-      {/* Background Image */}
+    
       <Image
-        src="/hero.png"        // make sure hero.png is inside /public folder
+        src="/hero.png"   
         alt="hero"
         fill
         className="object-cover"
       />
 
-      {/* Dark Overlay */}
+   
       <div className="absolute inset-0 bg-black/60"></div>
 
-      {/* TEXT CONTENT */}
+  
       <div className="absolute inset-0 flex flex-col justify-center px-6 md:px-20 max-w-xl">
 
         <h2 className="text-[28px] md:text-[40px] font-bold leading-tight text-[#98DAD9]">

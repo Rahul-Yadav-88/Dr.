@@ -18,7 +18,6 @@ export default function Section1() {
   return (
     <section className="w-full bg-[#f1f3f7] py-16 px-6 md:px-16">
 
-      {/* Heading */}
       <div className="text-center max-w-3xl mx-auto">
         <h2 className="text-[28px] md:text-[34px] font-bold text-[#00264F]">
           Comprehensive Pediatric Care You Can Trust
@@ -32,7 +31,6 @@ export default function Section1() {
         </p>
       </div>
 
-      {/* Services */}
       <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mt-12">
 
         {services.map((item, idx) => (
@@ -40,16 +38,16 @@ export default function Section1() {
             key={idx}
             className="relative h-[350px] rounded-lg overflow-hidden group"
           >
-            {/* Image */}
+            
             <div
               className="absolute inset-0 bg-cover bg-center transition-all duration-500 group-hover:scale-105"
               style={{ backgroundImage: `url('${item.img}')` }}
             />
 
-            {/* DARK OVERLAY (for text visibility) */}
+       
             <div className="absolute inset-0 bg-black/60 md:bg-black/55" />
 
-            {/* Text */}
+            
             <div className="absolute bottom-6 left-6 right-6 text-white">
               <h3 className="text-2xl font-semibold leading-tight">
                 {item.title}

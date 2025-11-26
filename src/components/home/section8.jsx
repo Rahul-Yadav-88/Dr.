@@ -4,20 +4,20 @@ import { FaChevronLeft, FaChevronRight } from "react-icons/fa";
 const Section8 = () => {
   return (
     <div className="relative w-full h-screen mt-10">
-      {/* BG Image */}
+  
       <img
         src="/section8.png"
         alt=""
         className="w-full h-full object-cover"
       />
 
-      {/* Overlay */}
+
       <div className="absolute inset-0 bg-black/40"></div>
 
-      {/* Content */}
+
       <div className="absolute inset-0 flex flex-col items-center justify-center text-white px-4">
 
-        {/* TEXT WRAPPER - FIXES ALL OVERFLOW */}
+      
         <div className="max-w-[90%] md:max-w-3xl overflow-visible text-center leading-2">
 
           <p className="text-sm sm:text-md md:text-2xl mb-8">
@@ -33,7 +33,7 @@ const Section8 = () => {
             care and lifelong learning.
           </p>
 
-          {/* line */}
+          
           <div className="h-[1px] w-[20%] bg-white/70 mx-auto mb-3"></div>
 
           <p className="text-lg  tracking-wide">

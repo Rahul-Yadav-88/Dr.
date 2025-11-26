@@ -57,7 +57,7 @@ export default function SpecialtySection() {
     <section className="w-full bg-[#f3f8ff] py-20 px-6">
       <div className="max-w-6xl mx-auto">
 
-        {/* Heading */}
+        
         <h2 className="text-center text-[32px] md:text-[40px] font-bold text-[#234A6B]">
           Our Specialty
         </h2>
@@ -65,7 +65,7 @@ export default function SpecialtySection() {
           We provide the world-class services with the best medical team!
         </p>
 
-        {/* Grid */}
+    
         <div className="mt-12 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6 md:gap-10">
           {specialties.map((item, index) => (
             <div

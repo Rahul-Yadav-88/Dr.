@@ -27,12 +27,12 @@ const cardsData = [
 
   return (
     <div className="w-full bg-[#F7F8F9] py-20 px-6">
-      {/* Title */}
+     
       <h2 className="text-center text-2xl md:text-3xl font-semibold text-[#5B8291] mb-6">
         Why Choose Dr. Gaurav Jadon
       </h2>
 
-      {/* Description */}
+      
       <div className="max-w-4xl mx-auto text-center text-[#5B8291] space-y-5 leading-relaxed">
         <p>
           Dr. Gaurav Jadon brings 28 years of pediatric expertise across India,
@@ -63,7 +63,7 @@ const cardsData = [
         </p>
       </div>
 
-      {/* Cards Section */}
+      
       <div className="grid grid-cols-1 md:grid-cols-2 gap-6 max-w-5xl mx-auto mt-16">
 
         {cardsData.map((card, index) => (
@@ -87,7 +87,7 @@ const cardsData = [
 
       </div>
 
-      {/* View more button */}
+     
       <div className="flex justify-center mt-10">
         <Link href="/services">
   <button className="mt-8 bg-[#29495E] text-white px-8 py-3 rounded-md text-sm tracking-widest hover:bg-[#1f3747] transition">
