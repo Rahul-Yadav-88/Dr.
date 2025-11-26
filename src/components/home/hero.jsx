@@ -26,7 +26,7 @@ const HeroSection = () => {
 
         <h2 className="text-[28px] md:text-[40px] font-bold leading-tight text-[#98DAD9]">
           A decade of <br /> experience as <br />
-          <span className="text-[#98DAD9] font-bold">an Pediatrician.</span>
+          <span className="text-[#98DAD9] font-bold"> Pediatrician.</span>
         </h2>
 
         <p className="text-white text-lg md:text-xl mt-4">

@@ -21,8 +21,8 @@ export default function HeroSection() {
           </h1>
 
           <p className="text-gray-300 text-sm leading-relaxed max-w-md mb-8">
-            Expert in Pediatrics and Pediatric Intensive
-            Care — committed to safe and evidence based child healthcare.
+           Expert in General Pediatrics (1month -18 year age )-
+Committed to safe and evidence based child healthcare
           </p>
 
        

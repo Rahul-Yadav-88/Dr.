@@ -40,7 +40,7 @@ export default function Navbar() {
 
         <div className="flex items-center gap-2 -mt-1">
           <div className="h-[2px] w-14 bg-[#5B8291]"></div>
-          <span className="text-xs text-[#5B8291]">
+          <span className="text-xs font-bold text-[#5B8291]">
             Consultant Pediatrician
           </span>
         </div>

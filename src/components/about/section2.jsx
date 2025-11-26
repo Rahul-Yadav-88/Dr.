@@ -11,11 +11,11 @@ const Section2 = () => {
         {/* left*/}
         <div className="w-full md:w-1/2">
           <h2 className="text-[#000000] font-bold text-3xl md:text-4xl leading-snug max-w-sm">
-            DR.
-            Gaurav Jadon<br />
-            MBBS, DCH, DNB<br />
-            Pediatrics, EBP<br />
-            (Europe)
+           Dr. 
+            Gaurav Jadon <br />
+            Diploma in European board of Pediatrics  <br />
+            DNB Pediatrics, DCH, MBBS <br />
+
           </h2>
         </div>
 
@@ -23,18 +23,13 @@ const Section2 = () => {
         <div className="w-full md:w-1/2">
           <p className="text-[#000000] text-[18px] leading-relaxed opacity-90">
             Dr. Gaurav Jadon is an experienced Consultant Pediatrician with 28 years of clinical
-            practice across India, Kuwait, and the UAE. He specializes in General Pediatrics and pediatric emergency care, providing safe, compassionate, and
-            evidence-based care for Care of childern from 1 month of age to 18 years, infants, and children.
+            practice across India, Kuwait, and the UAE. He specializes in General Pediatrics(remove pediatric emergency care )providing safe compassionate and evidence based care of children from 1 month to 18 years of age .
             <br /><br />
-            Over the years, he has managed a wide range of pediatric and neonatal conditions,
-            including premature Care of childern from 1 month of age to 18 years, pediatric emergencies, and complex critical cases.
+            Over the years, he has managed a wide range of pediatric and neonatal conditions, pediatric emergencies and complex critical cases, pediatric emergencies, and complex critical cases.
             His calm approach, strong clinical judgment, and commitment to medical excellence have
             earned the trust of families and colleagues alike.
             <br /><br />
-            Dr. Jadon is also actively involved in teaching, clinical audits, and international
-            medical conferences, contributing to the advancement of pediatric healthcare. He
-            currently serves at NMC Specialty Hospital, Dubai, where he continues to deliver
-            high-quality child healthcare with a family-centered and empathetic approach.
+            Dr Gaurav is actively involved in Research, teaching, International medical conferences and clinical audits,contributing to advancement for pediatric health care. He has published various scientific clinical research paper in reputated pubmed journals and also presented scientific papers in various pediatric International conferences.
           </p>
         </div>
 

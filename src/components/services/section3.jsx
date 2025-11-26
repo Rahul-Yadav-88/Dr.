@@ -15,11 +15,11 @@ export default function SpecialtySection() {
   //   img: "/img2.png",
   // },
 
-  {
-    title: "Pediatric Intensive Care",
-    desc: "Advanced critical care for severe and life-threatening pediatric conditions.",
-    img: "/img3.png",
-  },
+  // {
+  //   title: "Pediatric Intensive Care",
+  //   desc: "Advanced critical care for severe and life-threatening pediatric conditions.",
+  //   img: "/img3.png",
+  // },
   {
     title: "Care of childern from 1 month of age to 18 years",
     desc: "Routine Care of childern from 1 month of age to 18 years checkups, growth monitoring, and vaccinations.",

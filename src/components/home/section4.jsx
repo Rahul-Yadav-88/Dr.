@@ -22,9 +22,9 @@ export default function Section4() {
           </h3>
 
           <p className="text-[#5F869A] text-[22px] font-bold leading-relaxed md:pr-10">
-            General <br />
-            Pediatrics, Pediatric emergency, Childhood Asthma, vaccinations and Adolescent care (1month to 18 years of age )
-          </p>
+            General Pediatrics (All children from 1 month to 18 years of age )
+Special Interest-Pediatric emergency,Childhood Asthma ,Adolescent care  and Vaccinations       
+              </p>
 
           <Link href="/about">
             <button className="mt-8 bg-[#29495E] text-white px-8 py-3 rounded-md text-sm tracking-widest hover:bg-[#1f3747] transition">

@@ -41,9 +41,10 @@ export default function Footer() {
     <h3 className="text-2xl font-semibold mb-3 text-[#5B8291]">Get in Touch</h3>
 
     <div className="flex items-start gap-3 text-sm opacity-80 text-[#5B8291]">
-      <MapPin className="w-10 h-10 mt-1" />
+      <MapPin className="w-5 h-5 mt-1" />
       <p className="text-lg">
-        Opp. GEMS Legacy School, Al Garhoud (near GGICO Metro)
+        Mediclinic Welcare Hospital 
+opp Gems 
       </p>
     </div>
 
@@ -57,6 +58,10 @@ export default function Footer() {
     <div className="flex items-center gap-2 mt-3  opacity-80 text-[#5B8291] text-lg">
       <Phone className="w-5 h-5" />
       <span> 8001999 </span>
+    </div>
+     <div className="flex items-center gap-2 mt-3  opacity-80 text-[#5B8291] text-lg">
+      <Phone className="w-5 h-5" />
+      <span> 0505870574 </span>
     </div>
   </div>
 

@@ -9,7 +9,7 @@ const cardsData = [
     title: "Children care",
     image: "/card1.png",
     description:
-      "Comprehensive care for Care of childern from 1 month of age to 18 years, including premature babies and NICU-level support. Expert in ventilation, surfactant therapy, and management of high-risk Care of childern from 1 month of age to 18 years conditions.",
+      "Comprehensive care for Care of childern from 1 month of age to 18 years and management of high-risk Care of childern from 1 month of age to 18 years conditions.",
   },
   {
     title: "General Pediatrics",
@@ -17,12 +17,12 @@ const cardsData = [
     description:
       "Complete medical care for infants, children, and adolescents—covering infections, allergies, nutrition, growth, development, vaccinations, and long-term pediatric health.",
   },
-  {
-    title: "Pediatric Intensive Care",
-    image: "/card3.png",
-    description:
-      "Advanced management of critically ill children, including respiratory failure, sepsis, trauma, and emergencies. Skilled in ventilation, Prdiatric Emergency Care protocols, and multidisciplinary critical care.",
-  },
+  // {
+  //   title: "Pediatric Intensive Care",
+  //   image: "/card3.png",
+  //   description:
+  //     "Advanced management of critically ill children, including respiratory failure, sepsis, trauma, and emergencies. Skilled in ventilation, Prdiatric Emergency Care protocols, and multidisciplinary critical care.",
+  // },
 ];
 
   return (
@@ -64,7 +64,7 @@ const cardsData = [
       </div>
 
       {/* Cards Section */}
-      <div className="grid grid-cols-1 md:grid-cols-3 gap-6 max-w-5xl mx-auto mt-16">
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6 max-w-5xl mx-auto mt-16">
 
         {cardsData.map((card, index) => (
           <div
