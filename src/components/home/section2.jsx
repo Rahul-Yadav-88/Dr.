@@ -5,7 +5,7 @@ export default function Section2() {
     <section className="w-full bg-white py-16 px-6 md:px-20">
       <div className="max-w-7xl mx-auto grid md:grid-cols-2 gap-12">
 
-        {/* LEFT NAME + DEGREE */}
+      
         <div>
           <h2 className="text-[#5B8291] text-2xl md:text-3xl font-bold leading-snug">
             Dr. 
@@ -17,7 +17,7 @@ export default function Section2() {
         </div>
 
 
-        {/* RIGHT PARAGRAPHS */}
+      
         <div className="text-[#5B8291] text-[20px] leading-relaxed">
           <p>
             Dr. Gaurav has over 28 years of post-specialization experience across India, Kuwait, and the UAE.

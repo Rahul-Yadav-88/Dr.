@@ -4,8 +4,8 @@ const cards = [
   {
   title: 'Hospital Location',
   lines: [
-    'Mediclinic Welcare Hospital',
-    'Garhoud, Dubai',
+    'Mediclinic Welcare Hospital Dubai',
+    ' Dubai',
     'Providing comprehensive pediatric & emergency care in a modern clinical environment.'
   ],
   // action: { label: 'CONTACT US', href: '/contact' }
