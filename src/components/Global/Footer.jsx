@@ -8,7 +8,7 @@ export default function Footer() {
       {/* Social Media Sidebar - Fixed on Left */}
       <div className="fixed left-0 top-1/2 -translate-y-1/2 z-50 flex flex-col gap-0 shadow-lg">
         <a
-          href="https://facebook.com"
+          href="https://www.facebook.com/share/17mokYiMp5/?mibextid=wwXIfr"
           target="_blank"
           rel="noopener noreferrer"
           className="bg-[#1877F2] p-3 hover:pl-5 transition-all duration-300 group"
@@ -18,7 +18,7 @@ export default function Footer() {
         </a>
         
         <a
-          href="https://instagram.com"
+          href="https://www.instagram.com/seemagauravansh?igsh=MWg4dDRpOHNid2ZuNQ%3D%3D&utm_source=qr"
           target="_blank"
           rel="noopener noreferrer"
           className="bg-gradient-to-br from-[#833AB4] via-[#E1306C] to-[#F56040] p-3 hover:pl-5 transition-all duration-300 group"
@@ -28,7 +28,7 @@ export default function Footer() {
         </a>
         
         <a
-          href="https://linkedin.com"
+          href="http://linkedin.com/in/gauravjadon"
           target="_blank"
           rel="noopener noreferrer"
           className="bg-[#0A66C2] p-3 hover:pl-5 transition-all duration-300 group"
