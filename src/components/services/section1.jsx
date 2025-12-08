@@ -22,7 +22,7 @@ export default function Section1() {
         <h2 className="text-[28px] md:text-[34px] font-bold text-[#00264F]">
           Comprehensive Pediatric Care You Can Trust
         </h2>
-        <p className="mt-3 text-sm md:text-base leading-relaxed text-gray-700">
+        <p className="mt-3 text-sm md:text-base md:pl-0 pl-6 leading-relaxed text-gray-700">
           With 28 years of clinical expertise across India, Kuwait, and the UAE,
           Dr. Gaurav Jadon provides safe, compassionate, and evidence-based care for
           Care of childern from 1 month of age to 18 years, infants, and children. His approach focuses on accurate diagnosis,

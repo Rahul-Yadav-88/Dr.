@@ -10,7 +10,7 @@ const Section7 = () => {
   { id: 5, image: "/brand5.png" },
 ];
   return (
-    <div className="w-full bg-[#D9D9D9] py-20 px-4">
+    <div className="w-full bg-[#D9D9D9] py-20  px-4">
       <div className="max-w-6xl mx-auto grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-16 place-items-center">
 
         {brandLogos.map((logo) => (

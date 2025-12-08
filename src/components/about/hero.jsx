@@ -33,7 +33,7 @@ export default function HeroSection() {
         </div>
 
         {/* Right - Image Section */}
-        <div className="flex justify-center md:justify-end px-2 md:px-0">
+        <div className="flex justify-center md:pl-0 pl-8 md:justify-end px-2 md:px-0">
           <Image
             src="/about1.png"
             width={400}

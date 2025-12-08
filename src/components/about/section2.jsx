@@ -3,7 +3,7 @@ import React from "react";
 const Section2 = () => {
   return (
     <section
-      className="relative bg-cover bg-center bg-no-repeat py-12 md:py-16 px-4 md:px-6 lg:px-20"
+      className="relative bg-cover bg-center bg-no-repeat py-12 md:py-16 px-4 md:pl-0 pl-6 md:px-6 lg:px-20"
       style={{
         backgroundImage: `url('/about2.png')`,
       }}
@@ -20,7 +20,7 @@ const Section2 = () => {
         </div>
 
         {/* Right Section */}
-        <div className="w-full md:w-1/2 px-2 md:px-0">
+        <div className="w-full md:w-1/2 md:pl-0 pl-6 px-2 md:px-0">
           <p className="text-[#000000] text-base md:text-lg leading-relaxed opacity-90 text-center md:text-left">
             Dr. Gaurav Jadon is an experienced Consultant Pediatrician with 28 years of clinical
             practice across India, Kuwait, and the UAE. He specializes in General Pediatrics providing safe compassionate and evidence based care of children from 1 month to 18 years of age.

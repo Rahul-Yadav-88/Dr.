@@ -61,7 +61,7 @@ export default function SpecialtySection() {
         <h2 className="text-center text-[32px] md:text-[40px] font-bold text-[#234A6B]">
           Our Specialty
         </h2>
-        <p className="text-center  mt-2 text-lg md:text-xl">
+        <p className="text-center md:pl-0 pl-5 mt-2 text-lg md:text-xl">
           We provide the world-class services with the best medical team!
         </p>
 

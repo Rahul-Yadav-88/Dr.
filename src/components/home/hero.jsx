@@ -19,7 +19,7 @@ const HeroSection = () => {
           <span className="text-[#98DAD9] font-bold"> Pediatrician.</span>
         </h2>
 
-        <p className="text-white text-base md:text-xl mt-4">
+        <p className="text-white md:p-0 pl-6 text-base md:text-xl mt-4">
           Experience best-in-class consultation <br /> & treatment plans
         </p>
       </div>

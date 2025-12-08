@@ -2,7 +2,7 @@ import React from "react";
 
 export default function Section2() {
   return (
-    <section className="w-full bg-white py-12 md:py-16 px-4 md:px-20">
+    <section className="w-full bg-white py-12 md:pl-0 pl-12 md:py-16 px-4 md:px-20">
       <div className="max-w-7xl mx-auto grid md:grid-cols-2 gap-8 md:gap-12">
         <div>
           <h2 className="text-[#5B8291] text-xl md:text-2xl lg:text-3xl font-bold leading-snug">

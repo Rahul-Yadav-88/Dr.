@@ -3,7 +3,7 @@ import Link from 'next/link'
 
 export default function Section4() {
   return (
-    <section className=" bg-white  mt-20">
+    <section className=" bg-white  mt-20 ">
       <div className="responsivewidth  flex flex-col md:flex-row items-start gap-10">
 
        
@@ -16,7 +16,7 @@ export default function Section4() {
         </div>
 
        
-        <div className="w-full md:w-[70%]">
+        <div className="w-full md:pl-0 pl-8 md:w-[70%]">
           <h3 className="text-[#5F869A] text-xl font-semibold mb-10 border-b border-[#5F869A] w-fit pb-1">
             Areas of Expertise
           </h3>

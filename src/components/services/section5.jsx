@@ -44,12 +44,12 @@ export default function TestimonialSection() {
       <div className="max-w-7xl mx-auto relative">
 
  
-        <h2 className="text-[32px] md:text-[40px] font-bold text-[#1b3b5a] leading-snug">
+        <h2 className="md:pl-0 pl-6 text-[32px] md:text-[40px] font-bold text-[#1b3b5a] leading-snug">
           Read feedback about our <br />
           <span>Services and wonderful team!</span>
         </h2>
 
-        <p className="text-[#6b7b8c] max-w-xl mt-4 text-sm md:text-base">
+        <p className="md:pl-0 pl-6 text-[#6b7b8c] max-w-xl mt-4 text-sm md:text-base">
           We take care of our patients just like a family member. Read the
           testimonials from our patients.
         </p>
@@ -57,7 +57,7 @@ export default function TestimonialSection() {
       
        <div
   className="
-    flex items-center gap-4 mt-6 
+    flex items-center gap-4 mt-6 md:pl-0 pl-6
     md:mt-2 md:absolute md:right-0 md:top-0
   "
 >

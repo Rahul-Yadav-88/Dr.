@@ -15,7 +15,7 @@ const Section8 = () => {
       <div className="absolute inset-0 bg-black/40"></div>
 
 
-      <div className="absolute inset-0 flex flex-col items-center justify-center text-white px-4">
+      <div className="absolute inset-0 md:pl-0 pl-8 flex flex-col items-center justify-center text-white px-4">
 
       
         <div className="max-w-[90%] md:max-w-3xl overflow-visible text-center leading-2">

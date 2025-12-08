@@ -38,42 +38,11 @@ export default function Footer() {
         </a>
       </div>
 
-      {/* Mobile Social Media - Horizontal at top of footer */}
-      <div className="md:hidden flex justify-center gap-0 bg-gray-800 py-2">
-        <a
-          href="https://www.facebook.com/share/17mokYiMp5/?mibextid=wwXIfr"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="bg-[#1877F2] p-3 flex-1 text-center"
-          aria-label="Facebook"
-        >
-          <Facebook className="w-5 h-5 text-white mx-auto" />
-        </a>
-        
-        <a
-          href="https://www.instagram.com/seemagauravansh?igsh=MWg4dDRpOHNid2ZuNQ%3D%3D&utm_source=qr"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="bg-gradient-to-br from-[#833AB4] via-[#E1306C] to-[#F56040] p-3 flex-1 text-center"
-          aria-label="Instagram"
-        >
-          <Instagram className="w-5 h-5 text-white mx-auto" />
-        </a>
-        
-        <a
-          href="http://linkedin.com/in/gauravjadon"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="bg-[#0A66C2] p-3 flex-1 text-center"
-          aria-label="LinkedIn"
-        >
-          <Linkedin className="w-5 h-5 text-white mx-auto" />
-        </a>
-      </div>
+      
 
       <footer className="w-full bg-[#1F1F1F] text-white pt-8 pb-6">
         {/* Top Info Boxes */}
-        <div className="max-w-7xl mx-auto px-3 md:px-4 grid grid-cols-1 md:grid-cols-3 gap-2 md:gap-0">
+        <div className="md:max-w-7xl max-w-70 mx-auto px-3 md:px-4 grid grid-cols-1 md:grid-cols-3 gap-2 md:gap-0">
           <div className="bg-[#617C8B] p-4 md:p-8 text-center text-[#98DAD9]">
             <h4 className="font-semibold text-sm md:text-base">Find a clinic near you</h4>
             <p className="text-xs md:text-sm opacity-80">Find Us On Map</p>
@@ -91,7 +60,7 @@ export default function Footer() {
         </div>
 
         {/* Main Footer Content */}
-        <div className="max-w-7xl mx-auto px-3 md:px-4 mt-8 md:mt-10 grid grid-cols-1 md:grid-cols-3 gap-6 md:gap-10 text-[#cbd5e1]">
+        <div className="md:max-w-7xl max-w-70 mx-auto px-3 md:px-4 mt-8 md:mt-10 grid grid-cols-1 md:grid-cols-3 gap-6 md:gap-10 text-[#cbd5e1]">
           {/* About Section */}
           <div>
             <h3 className="text-xl md:text-2xl font-semibold mb-3 text-[#5B8291]">About us</h3>
@@ -140,7 +109,7 @@ export default function Footer() {
         </div>
 
         {/* Appointment Form */}
-        <div className="max-w-3xl w-full mx-auto mt-8 md:mt-10 p-3 md:p-4">
+        <div className="md:max-w-3xl max-w-70 w-full mx-auto mt-8 md:mt-10 p-3 md:p-4">
           <h3 className="text-2xl md:text-3xl font-bold text-[#5B8291] mb-2 text-center md:text-left">
             Schedule An Appointment
           </h3>

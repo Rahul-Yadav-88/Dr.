@@ -40,7 +40,7 @@ const cards = [
 export default function HeroCards() {
   return (
     <div className="w-full  py-10 flex justify-center">
-      <div className="grid grid-cols-1 md:grid-cols-3 gap-6 max-w-6xl w-full px-4">
+      <div className="grid grid-cols-1 md:grid-cols-3 gap-6 max-w-6xl w-full md:px-4 md:pl-0 pl-6 px-4">
         {cards.map((card, idx) => (
           <div key={idx} className="bg-[#364F59] text-white p-6  shadow-lg flex flex-col justify-between">
             <h2 className="text-xl font-semibold mb-4">{card.title}</h2>
