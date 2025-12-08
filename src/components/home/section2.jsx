@@ -2,23 +2,17 @@ import React from "react";
 
 export default function Section2() {
   return (
-    <section className="w-full bg-white py-16 px-6 md:px-20">
-      <div className="max-w-7xl mx-auto grid md:grid-cols-2 gap-12">
-
-      
+    <section className="w-full bg-white py-12 md:py-16 px-4 md:px-20">
+      <div className="max-w-7xl mx-auto grid md:grid-cols-2 gap-8 md:gap-12">
         <div>
-          <h2 className="text-[#5B8291] text-2xl md:text-3xl font-bold leading-snug">
-            Dr. 
-            Gaurav Jadon <br />
+          <h2 className="text-[#5B8291] text-xl md:text-2xl lg:text-3xl font-bold leading-snug">
+            Dr. Gaurav Jadon <br />
             Diploma in European board of Pediatrics  <br />
             DNB Pediatrics, DCH, MBBS <br />
-
           </h2>
         </div>
 
-
-      
-        <div className="text-[#5B8291] text-[20px] leading-relaxed">
+        <div className="text-[#5B8291] text-base md:text-lg lg:text-[20px] leading-relaxed">
           <p>
             Dr. Gaurav has over 28 years of post-specialization experience across India, Kuwait, and the UAE.
             He specializes in General Pediatrics with special interest in Pediatric emergency,Childhood asthma ,adolescent health and preventive care including childhood and adolescent vaccinations.
@@ -32,7 +26,6 @@ export default function Section2() {
             his commitment to child health, medical education, and international research.
           </p>
         </div>
-
       </div>
     </section>
   );
