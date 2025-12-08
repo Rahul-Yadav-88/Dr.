@@ -13,7 +13,7 @@ export default function HeroSection() {
       ">
         
         {/* Left Section - Shifted right for better mobile alignment */}
-        <div className="flex flex-col items-center md:items-start px-2 md:px-0 ml-0 md:ml-4 lg:ml-8">
+        <div className="flex flex-col  items-center md:items-start px-2 md:px-0 ml-0 md:ml-4 lg:ml-8">
           <p className="text-[#98DAD9] text-sm md:text-base mb-3">Hello, Welcome</p>
 
           <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-white mb-4 md:mb-5 text-center md:text-left">

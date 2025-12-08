@@ -13,7 +13,7 @@ const HeroSection = () => {
 
       <div className="absolute inset-0 bg-black/60"></div>
 
-      <div className="absolute inset-0 flex flex-col justify-center px-4 md:px-20 max-w-xl">
+      <div className="absolute inset-0 flex flex-col items-center md:items-start justify-center px-4 md:px-20 max-w-xl">
         <h2 className="text-[24px] md:text-[40px] font-bold leading-tight text-[#98DAD9]">
           A decade of <br /> experience as <br />
           <span className="text-[#98DAD9] font-bold"> Pediatrician.</span>

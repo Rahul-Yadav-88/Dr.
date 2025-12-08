@@ -45,13 +45,7 @@ export default function Navbar() {
       </div>
 
       {/* CENTER LOGO - Made smaller for mobile */}
-      <div className=" ">
-        <img 
-          src="/drlogo.jpeg" 
-          alt="Dr Gaurav Jadon Logo" 
-          className="w-14 h-14 md:w-20 md:h-20 object-contain rounded-full p-1 md:p-2"
-        />
-      </div>
+      
 
       {/* Desktop Menu */}
       <ul className="hidden md:flex gap-8 lg:gap-10 text-[#5B8291]">
@@ -82,7 +76,14 @@ export default function Navbar() {
 
       {/* Mobile Dropdown */}
       {open && (
-        <ul className="absolute top-14 right-0 bg-white shadow-lg rounded p-4 flex flex-col gap-4 w-1/2 h-screen md:hidden text-slate-600 z-50">
+        <ul className="absolute top-14 right-0 bg-white shadow-lg rounded p-4 flex flex-col gap-3 w-1/2 h-screen md:hidden text-slate-600 z-50">
+          <div className="flex justify-center ">
+        <img 
+          src="/drlogo.jpeg" 
+          alt="Dr Gaurav Jadon Logo" 
+          className="w-14 h-14 md:w-20 md:h-20 object-contain rounded-full p-1 md:p-2"
+        />
+      </div>
           {navLinks.map((link) => {
             const isActive = pathname === link.href;
 
