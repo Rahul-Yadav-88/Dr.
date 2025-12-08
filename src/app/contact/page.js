@@ -2,7 +2,7 @@ import React from 'react';
 
 export default function ContactSection() {
   return (
-    <div className="grid grid-cols-1 md:grid-cols-2 gap-10 max-w-6xl mx-auto py-16 px-4">
+    <div className="grid grid-cols-1 md:grid-cols-2 gap-10 max-w-6xl mx-auto py-16 px-12">
       {/* Left: Form */}
       <div>
         <h1 className="text-4xl font-bold mb-4">
@@ -43,7 +43,7 @@ export default function ContactSection() {
         </form>
 
         {/* Contact Icons */}
-        <div className="flex items-center gap-10 mt-10 text-sm text-gray-700">
+        <div className="md:flex items-center gap-10 mt-10 text-sm text-gray-700">
           <div className="flex items-center gap-2">
             <span><img src="/contact1.png" alt="" className='w-6'/></span>
             <div>
@@ -51,15 +51,7 @@ export default function ContactSection() {
               <p>8001999</p>
             </div>
           </div>
-
-          {/* <div className="flex items-center gap-2">
-              <span><img src="/contact2.png" alt="" className='w-6'/></span>
-            <div>
-              <p className="font-semibold">Fax</p>
-              <p>03 5432 1234</p>
-            </div>
-          </div> */}
-
+          
           <div className="flex items-center gap-2">
              <span><img src="/contact3.png" alt="" className='w-6'/></span>
             <div>

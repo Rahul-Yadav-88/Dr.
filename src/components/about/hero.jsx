@@ -20,7 +20,7 @@ export default function HeroSection() {
             I'm Dr. Gaurav Jadon
           </h1>
 
-          <p className="text-gray-300 text-sm md:text-base leading-relaxed max-w-md mb-6 md:mb-8 text-center md:text-left">
+          <p className="text-gray-300 text-sm md:text-base leading-relaxed max-w-md mb-6 md:mb-8 text-center md:text-left px-7 md:px-0">
             Expert in General Pediatrics (1 month - 18 year age) - 
             Committed to safe and evidence based child healthcare
           </p>
