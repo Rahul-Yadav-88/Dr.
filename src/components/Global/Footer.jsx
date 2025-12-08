@@ -6,7 +6,7 @@ export default function Footer() {
   return (
     <>
       {/* Social Media Sidebar - Hidden on mobile, shown on tablet+ */}
-      <div className="hidden md:flex fixed left-0 top-1/2 -translate-y-1/2 z-50 flex-col gap-0 shadow-lg">
+      <div className=" flex fixed left-0 top-1/2 -translate-y-1/2 z-50 flex-col gap-0 shadow-lg">
         <a
           href="https://www.facebook.com/share/17mokYiMp5/?mibextid=wwXIfr"
           target="_blank"

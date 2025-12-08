@@ -29,7 +29,7 @@ export default function Navbar() {
   }, [open]);
 
   return (
-    <nav className="relative w-full py-3 md:py-4 px-3 md:px-6 flex justify-between items-center bg-white shadow-sm z-50">
+    <nav className=" w-full   px-3 md:px-6 flex justify-between items-center bg-white shadow-sm z-50">
       {/* Left Logo Section - Reduced text size for mobile */}
       <div className="flex flex-col">
         <h1 className="text-lg md:text-[22px] font-semibold text-[#5B8291]">
@@ -45,7 +45,7 @@ export default function Navbar() {
       </div>
 
       {/* CENTER LOGO - Made smaller for mobile */}
-      <div className="absolute left-1/2 transform -translate-x-1/2">
+      <div className=" ">
         <img 
           src="/drlogo.jpeg" 
           alt="Dr Gaurav Jadon Logo" 
