@@ -29,7 +29,7 @@ export default function Navbar() {
   }, [open]);
 
   return (
-    <nav className=" w-full   px-3 md:px-6 flex justify-between items-center bg-white shadow-sm z-50">
+    <nav className=" w-full py-2  px-3 md:px-6 flex justify-between items-center bg-white shadow-sm z-50">
       {/* Left Logo Section - Reduced text size for mobile */}
       <div className="flex flex-col">
         <h1 className="text-lg md:text-[22px] font-semibold text-[#5B8291]">

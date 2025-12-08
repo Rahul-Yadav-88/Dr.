@@ -40,7 +40,7 @@ export default function Footer() {
 
       
 
-      <footer className="w-full bg-[#1F1F1F] text-white pt-8 pb-6">
+      <footer className="w-full bg-[#1F1F1F] text-white px-10 pt-8 pb-6">
         {/* Top Info Boxes */}
         <div className="md:max-w-7xl max-w-70 mx-auto px-3 md:px-4 grid grid-cols-1 md:grid-cols-3 gap-2 md:gap-0">
           <div className="bg-[#617C8B] p-4 md:p-8 text-center text-[#98DAD9]">
