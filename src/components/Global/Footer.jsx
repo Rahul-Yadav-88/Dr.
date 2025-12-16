@@ -18,7 +18,7 @@ export default function Footer() {
         </a>
         
         <a
-          href="https://www.instagram.com/seemagauravansh?igsh=MWg4dDRpOHNid2ZuNQ%3D%3D&utm_source=qr"
+          href="https://www.instagram.com/drgauravjadon?igsh=MWg4dDRpOHNid2ZuNQ%3D%3D&utm_source=qr"
           target="_blank"
           rel="noopener noreferrer"
           className="bg-gradient-to-br from-[#833AB4] via-[#E1306C] to-[#F56040] p-3 hover:pl-5 transition-all duration-300 group"

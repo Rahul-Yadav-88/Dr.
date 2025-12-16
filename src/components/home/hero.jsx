@@ -5,7 +5,7 @@ const HeroSection = () => {
   return (
    <div className="relative w-full h-[70vh] md:h-[90vh] overflow-hidden">
   <Image
-    src="/P.jpeg"
+    src="/pp.jpeg"
     alt="hero"
     fill
     className="object-center object-fill"
